@@ -1,0 +1,67 @@
+2022-11-23 23:47:25,691 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Loss at cold start is considered poor and problematic: relative error of 32862218.177
+2022-11-23 23:47:31,338 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer activation conv2d_7/relu are considered unstable with std of 0.2587716870126943 far from [0.5, 2.0]
+2022-11-23 23:47:33,838 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer activation conv2d_7/relu are considered unstable with std of 0.28419809419506664 far from [0.5, 2.0]
+2022-11-23 23:47:36,344 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer activation conv2d_7/relu are considered unstable with std of 0.28406325081164296 far from [0.5, 2.0]
+2022-11-23 23:47:38,985 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_6/kernel:0 change too slowly with magnitude update ratio of -4.182000160217285 < -4
+2022-11-23 23:47:41,689 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_6/kernel:0 change too slowly with magnitude update ratio of -4.336999893188477 < -4
+2022-11-23 23:47:44,338 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_6/kernel:0 change too slowly with magnitude update ratio of -4.017000198364258 < -4
+2022-11-23 23:47:44,349 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_6/kernel:0 change too slowly with magnitude update ratio of -4.425000190734863 < -4
+2022-11-23 23:47:46,948 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_6/kernel:0 change too slowly with magnitude update ratio of -4.11299991607666 < -4
+2022-11-23 23:47:46,949 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_7/kernel:0 change too slowly with magnitude update ratio of -4.0 < -4
+2022-11-23 23:47:46,960 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_6/kernel:0 change too slowly with magnitude update ratio of -4.484000205993652 < -4
+2022-11-23 23:47:47,004 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - The loss is no-or-slowly decreasing
+2022-11-23 23:47:49,566 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_6/kernel:0 change too slowly with magnitude update ratio of -4.190000057220459 < -4
+2022-11-23 23:47:49,566 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_7/kernel:0 change too slowly with magnitude update ratio of -4.079999923706055 < -4
+2022-11-23 23:47:49,578 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_6/kernel:0 change too slowly with magnitude update ratio of -4.526000022888184 < -4
+2022-11-23 23:47:49,579 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_7/kernel:0 change too slowly with magnitude update ratio of -4.001999855041504 < -4
+2022-11-23 23:47:49,625 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - The loss is no-or-slowly decreasing
+2022-11-23 23:47:52,133 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_6/kernel:0 change too slowly with magnitude update ratio of -4.255000114440918 < -4
+2022-11-23 23:47:52,133 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_7/kernel:0 change too slowly with magnitude update ratio of -4.145999908447266 < -4
+2022-11-23 23:47:52,144 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_6/kernel:0 change too slowly with magnitude update ratio of -4.556000232696533 < -4
+2022-11-23 23:47:52,145 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_7/kernel:0 change too slowly with magnitude update ratio of -4.068999767303467 < -4
+2022-11-23 23:47:52,187 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - The loss is no-or-slowly decreasing
+2022-11-23 23:47:54,698 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_6/kernel:0 change too slowly with magnitude update ratio of -4.308000087738037 < -4
+2022-11-23 23:47:54,699 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_7/kernel:0 change too slowly with magnitude update ratio of -4.198999881744385 < -4
+2022-11-23 23:47:54,709 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_6/kernel:0 change too slowly with magnitude update ratio of -4.579999923706055 < -4
+2022-11-23 23:47:54,709 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_7/kernel:0 change too slowly with magnitude update ratio of -4.126999855041504 < -4
+2022-11-23 23:47:54,752 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - The loss is no-or-slowly decreasing
+2022-11-23 23:47:57,260 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_6/kernel:0 change too slowly with magnitude update ratio of -4.353000164031982 < -4
+2022-11-23 23:47:57,261 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_7/kernel:0 change too slowly with magnitude update ratio of -4.244999885559082 < -4
+2022-11-23 23:47:57,272 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_6/kernel:0 change too slowly with magnitude update ratio of -4.5980000495910645 < -4
+2022-11-23 23:47:57,272 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_7/kernel:0 change too slowly with magnitude update ratio of -4.177999973297119 < -4
+2022-11-23 23:47:57,315 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - The loss is no-or-slowly decreasing
+2022-11-23 23:47:59,872 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_6/kernel:0 change too slowly with magnitude update ratio of -4.392000198364258 < -4
+2022-11-23 23:47:59,872 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_7/kernel:0 change too slowly with magnitude update ratio of -4.285999774932861 < -4
+2022-11-23 23:47:59,885 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_6/kernel:0 change too slowly with magnitude update ratio of -4.61299991607666 < -4
+2022-11-23 23:47:59,885 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_7/kernel:0 change too slowly with magnitude update ratio of -4.2230000495910645 < -4
+2022-11-23 23:47:59,930 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - The loss is no-or-slowly decreasing
+2022-11-23 23:48:02,505 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_6/kernel:0 change too slowly with magnitude update ratio of -4.423999786376953 < -4
+2022-11-23 23:48:02,505 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_7/kernel:0 change too slowly with magnitude update ratio of -4.322000026702881 < -4
+2022-11-23 23:48:02,516 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_6/kernel:0 change too slowly with magnitude update ratio of -4.624000072479248 < -4
+2022-11-23 23:48:02,517 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_7/kernel:0 change too slowly with magnitude update ratio of -4.263000011444092 < -4
+2022-11-23 23:48:02,560 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - The loss is no-or-slowly decreasing
+2022-11-23 23:48:05,088 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_6/kernel:0 change too slowly with magnitude update ratio of -4.453999996185303 < -4
+2022-11-23 23:48:05,089 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_7/kernel:0 change too slowly with magnitude update ratio of -4.35099983215332 < -4
+2022-11-23 23:48:05,100 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_6/kernel:0 change too slowly with magnitude update ratio of -4.633999824523926 < -4
+2022-11-23 23:48:05,100 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_7/kernel:0 change too slowly with magnitude update ratio of -4.298999786376953 < -4
+2022-11-23 23:48:05,143 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - The loss is no-or-slowly decreasing
+2022-11-23 23:48:07,677 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_6/kernel:0 change too slowly with magnitude update ratio of -4.480000019073486 < -4
+2022-11-23 23:48:07,678 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_7/kernel:0 change too slowly with magnitude update ratio of -4.377999782562256 < -4
+2022-11-23 23:48:07,690 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_6/kernel:0 change too slowly with magnitude update ratio of -4.642000198364258 < -4
+2022-11-23 23:48:07,690 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_7/kernel:0 change too slowly with magnitude update ratio of -4.331999778747559 < -4
+2022-11-23 23:48:07,733 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - The loss is no-or-slowly decreasing
+2022-11-23 23:48:10,486 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_6/kernel:0 change too slowly with magnitude update ratio of -4.504000186920166 < -4
+2022-11-23 23:48:10,487 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_7/kernel:0 change too slowly with magnitude update ratio of -4.4019999504089355 < -4
+2022-11-23 23:48:10,499 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_6/kernel:0 change too slowly with magnitude update ratio of -4.6479997634887695 < -4
+2022-11-23 23:48:10,499 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_7/kernel:0 change too slowly with magnitude update ratio of -4.361999988555908 < -4
+2022-11-23 23:48:10,562 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - The loss is no-or-slowly decreasing
+2022-11-23 23:48:13,496 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_6/kernel:0 change too slowly with magnitude update ratio of -4.526000022888184 < -4
+2022-11-23 23:48:13,497 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_7/kernel:0 change too slowly with magnitude update ratio of -4.425000190734863 < -4
+2022-11-23 23:48:13,509 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_6/kernel:0 change too slowly with magnitude update ratio of -4.6539998054504395 < -4
+2022-11-23 23:48:13,509 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_7/kernel:0 change too slowly with magnitude update ratio of -4.389999866485596 < -4
+2022-11-23 23:48:13,552 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - The loss is no-or-slowly decreasing
+2022-11-23 23:48:16,368 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_6/kernel:0 change too slowly with magnitude update ratio of -4.546000003814697 < -4
+2022-11-23 23:48:16,368 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - Conv. layer weight conv2d_7/kernel:0 change too slowly with magnitude update ratio of -4.446000099182129 < -4
+2022-11-23 23:48:16,379 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_6/kernel:0 change too slowly with magnitude update ratio of -4.658999919891357 < -4
+2022-11-23 23:48:16,379 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - FC layer weight of dense_7/kernel:0 change too slowly with magnitude update ratio of -4.415999889373779 < -4
+2022-11-23 23:48:16,423 - TheDeepChecker: base_CNN_high_lr Logs - WARNING - The loss is no-or-slowly decreasing
